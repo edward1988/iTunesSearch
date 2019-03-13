@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mstTest</string>
+    <string name="hint_search">Поисковый запрос</string>
+</resources>
